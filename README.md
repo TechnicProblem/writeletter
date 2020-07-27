@@ -13,7 +13,7 @@ Replace the A with a single letter. Or number. Or something else. But just one.
     
     public class Main {
     	
-    	public static void main(String[] args) {
+	public static void main(String[] args) {
 		writeLetter.writeLetter('H');
 		writeLetter.writeLetter('E');
 		writeLetter.writeLetter('L');
@@ -26,7 +26,7 @@ Replace the A with a single letter. Or number. Or something else. But just one.
 		writeLetter.writeLetter('L');
 		writeLetter.writeLetter('D');
 		writeLetter.writeLetter('!');
-    	}
+	}
     }
 
 ### This is stupid!
