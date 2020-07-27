@@ -14,18 +14,18 @@ Replace the A with a single letter. Or number. Or something else. But just one.
     public class Main {
     	
     	public static void main(String[] args) {
-    		writeLetter.writeLetter('H');
+		writeLetter.writeLetter('H');
 		writeLetter.writeLetter('E');
-    		writeLetter.writeLetter('L');
-	    	writeLetter.writeLetter('L');
-    		writeLetter.writeLetter('O');
-    		writeLetter.writeLetter(' ');
-    		writeLetter.writeLetter('W');
-    		writeLetter.writeLetter('O');
-    		writeLetter.writeLetter('R');
-	    	writeLetter.writeLetter('L');
-	    	writeLetter.writeLetter('D');
-	    	writeLetter.writeLetter('!');
+		writeLetter.writeLetter('L');
+		writeLetter.writeLetter('L');
+		writeLetter.writeLetter('O');
+		writeLetter.writeLetter(' ');
+		writeLetter.writeLetter('W');
+		writeLetter.writeLetter('O');
+		writeLetter.writeLetter('R');
+		writeLetter.writeLetter('L');
+		writeLetter.writeLetter('D');
+		writeLetter.writeLetter('!');
     	}
     }
 
